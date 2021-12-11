@@ -4,7 +4,7 @@
 
 // Se é um dia antes de dois dias após hoje (vai dois e volta um), então o dia de amanhã é Quarta-feira. Logo, o dia de hoje é Terça-feira
 
-// Meus diferenciais: Por ter trabalhado no direito, tenho experiência com o atendimento humano, ou seja, possuo diversas soft skills tais como escuta ativa, empatia, capacidade de negociação, facilidade na comunicação, tolerância à frustrações, sei trabalhar sob pressão, etc. Além disso, fiz o curso Trybe, onde ensinam, entre inúmeras soft e hard skills, a mais importante habilidade de um programador: aprender a aprender, isso junto com persistência faz um potencial ilimitado.
+// Meus diferenciais: Por ter trabalhado no direito, tenho experiência com o atendimento humano, ou seja, possuo diversas soft skills tais como escuta ativa, empatia, capacidade de negociação, facilidade na comunicação, tolerância à frustrações, sei trabalhar sob pressão, etc. Além disso, fiz o curso Trybe, onde ensinam, entre inúmeras soft e hard skills, a mais importante habilidade de um programador: aprender a aprender, isso junto com minha persistência faz um potencial ilimitado.
 
 // Crie uma função que recebe um número qualquer e encontra o maior número formado por dígitos consecutivos naquele número.
 
