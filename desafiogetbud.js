@@ -25,7 +25,7 @@ const returnBiggest = (number) => {
         biggest.push('-');
       }
     }
-    // because of the specificity of continuing 9 -> 0
+    // Por conta da especificidade da continuação 9 -> 0
     if (separating[i] === 9) {
       if (separating[i + 1] === 0 || separating[i - 1] === 8) {
         biggest.push(String(separating[i]));
@@ -42,7 +42,7 @@ const returnBiggest = (number) => {
     }
   };
   let result = Math.max(...biggest.join('', [separator = '-']).split('-').map(Number));
-  return `Do número ${number}, a maior consecução de números é ${result}`;
+  return `O maior número formado por dígitos consecutivos dentro de ${number} é => ${result}.`;
 };
 console.log(returnBiggest(testNum1));
 console.log(returnBiggest(testNum2));
